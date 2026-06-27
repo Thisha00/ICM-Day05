@@ -21,3 +21,12 @@ let numbers = [1 , true , "Kamal" , 3.14];
 for(let i=0; i<numbers.length; i++){
     console.log(numbers[i]);
 }
+
+
+//Object
+let customer = {
+    name : "Sunil",
+    age : 25,
+    salary : 7500
+}
+console.log(customer);
